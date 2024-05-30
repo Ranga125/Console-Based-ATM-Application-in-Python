@@ -140,8 +140,6 @@ atm_system.atm.add_user(User("user2", "5678", 500))</code></pre>
         <li>Add logging for security and auditing purposes.</li>
         <li>Create a graphical user interface (GUI) for better user experience.</li>
     </ul>
-<h2>License</h2>
-    <p>This project is licensed under the MIT License. See the LICENSE file for more details.</p>
 <h2>Acknowledgements</h2>
     <p>This project was inspired by the need to understand object-oriented programming in Python and managing a simple banking system.</p>
 </body>
