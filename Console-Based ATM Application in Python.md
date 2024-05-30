@@ -29,7 +29,7 @@ Getting Started
      Python 3.12.3 installed on your machine.
 Installation
      1.Clone the repository:
-         git clone https://github.com/yourusername/atm-application.git
+         git clone https://github.com/Ranga125/Console-Based-ATM-Application-in-Python
      2.Navigate to the project directory:
          cd atm-application
 Usage
