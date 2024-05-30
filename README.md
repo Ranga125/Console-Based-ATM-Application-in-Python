@@ -49,9 +49,9 @@
     </ul>
 <h2>Getting Started</h2>
     <h3>Prerequisites</h3>
-    <p>Python 3.x installed on your machine.</p>
+    <p>Python 3.10.12 installed on your machine.</p>
 <h3>Installation</h3>
-    <pre><code>git clone https://github.com/yourusername/atm-application.git
+    <pre><code>git clone https://github.com/Ranga125/Console-Based-ATM-Application-in-Python
 cd atm-application</code></pre>
 <h3>Usage</h3>
     <pre><code>python atm_application.py</code></pre>
